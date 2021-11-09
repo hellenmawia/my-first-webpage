@@ -20,8 +20,11 @@ font-style: italic;
     padding: top 5px;
     background-color: khaki;
     float:left;
-
-
-
-
 }
+
+.important {
+    color: red;
+  }
+  .unimportant {
+    color: blue;
+  }

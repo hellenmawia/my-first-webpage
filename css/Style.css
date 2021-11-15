@@ -41,4 +41,5 @@ font-style: italic;
 
   .test-box {
     border: 2px solid red;
+    padding: 6px;
   }
